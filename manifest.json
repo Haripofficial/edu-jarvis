@@ -1,0 +1,42 @@
+{
+	"name": "EDU-JARVIS",
+	"short_name": "jarvis",
+	"description": "A website that include Notes and Additonal resources for KTU S7 EC branch ",
+	"start_url": ".",
+	"display": "standalone",
+	"orientation": "portrait",
+	"background_color": "#dee2ff",
+	"theme_color": "#dee2ff",
+	"icons": [
+		{
+			"src": "images/jarvis56.png",
+			"type": "image/png",
+			"sizes": "56x56"
+		},
+		{
+			"src": "images/jarvis96.png",
+			"type": "image/png",
+			"sizes": "96x96"
+        },
+        {
+			"src": "images/jarvis144.png",
+			"type": "image/png",
+			"sizes": "144x144"
+		},
+		{
+			"src": "images/jarvis192.png",
+			"type": "image/png",
+			"sizes": "192x192"
+		},{
+			"src": "images/jarvis240.png",
+			"type": "image/png",
+			"sizes": "240x240"
+		},
+		{
+			"src": "images/jarvis512.png",
+			"type": "image/png",
+			"sizes": "512x512"
+		}
+	
+	]
+}
