@@ -5,7 +5,7 @@ self.addEventListener("install",e=>{
         caches.open("static").then(cache=>{
             return cache.addAll["./",
              "./about.html",
-             "./left-sidebar.html",
+             "./syllabus.html",
              "./right-sidebar.html",
              "./no-sidebar.html",
              "./itc.html",
