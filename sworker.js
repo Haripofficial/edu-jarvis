@@ -7,7 +7,7 @@ self.addEventListener("install",e=>{
              "./about.html",
              "./syllabus.html",
              "./notes.html",
-             "./no-sidebar.html",
+             "./contribute.html",
              "./itc.html",
              "./mw.html",
              "./oc.html",
