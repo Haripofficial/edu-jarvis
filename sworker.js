@@ -22,6 +22,7 @@ self.addEventListener("install",e=>{
              "./assets/css/fontawesome-all.min.css",
              "./assets/sass/main.css",
              "./images/jarvis56.png",
+             "./images/jarvis64.png",
              "./images/jarvis96.png",
              "./images/jarvis144.png",
              "./images/jarvis192.png",
